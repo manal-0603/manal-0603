@@ -1,5 +1,8 @@
-# 💫 About Me:
-Hi 👋, <br>I'm Manal Mounir<br>A Full-stack Data scientist<br>🎓 I am a passionate PhD student in computer science specializing in intelligent systems and decision-making systems<br>💼 My extensive academic background, combined with a strong experience in web, mobile, and desktop development,  allows me to bring a unique perspective to each project<br>🔍 I am constantly staying updated with the latest technological advancements and best practices in my field, always seeking to enhance my skills and stay at the forefront of the industry.always seeking to enhance my skills and stay at the forefront of the industry.
+<font size='3' face='cursive'>
+
+## **<font color="#FF1646" >💫 About Me: </font>**
+
+#### Hi 👋, <br>I'm Manal Mounir<br>A Full-stack Data scientist<br>🎓 I am a passionate PhD student in computer science specializing in intelligent systems and decision-making systems<br>💼 My extensive academic background, combined with a strong experience in web, mobile, and desktop development,  allows me to bring a unique perspective to each project<br>🔍 I am constantly staying updated with the latest technological advancements and best practices in my field, always seeking to enhance my skills and stay at the forefront of the industry.always seeking to enhance my skills and stay at the forefront of the industry.
 
 
 ## 🌐 Socials:
@@ -19,3 +22,5 @@ Hi 👋, <br>I'm Manal Mounir<br>A Full-stack Data scientist<br>🎓 I am a pass
 [![](https://visitcount.itsvg.in/api?id=manal-0603&icon=5&color=5)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+</font>
