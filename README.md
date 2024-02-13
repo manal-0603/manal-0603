@@ -12,7 +12,10 @@ Hi 👋, <br>I'm Manal Mounir<br>A Full-stack Data scientist<br>🎓 I am a pass
 ![](https://github-readme-streak-stats.herokuapp.com/?user=manal-0603&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=manal-0603&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=manal-0603&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 ---
-[![](https://visitcount.itsvg.in/api?id=manal-0603&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=manal-0603&icon=5&color=5)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
