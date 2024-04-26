@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, <br>I'm Manal Mounir<br>A Full-stack Data scientist<br>🎓 I am a passionate PhD student in computer science specializing in intelligent systems and decision-making systems<br>💼 My extensive academic background, combined with a strong experience in web, mobile, and desktop development,  allows me to bring a unique perspective to each project<br>🔍 I am constantly staying updated with the latest technological advancements and best practices in my field, always seeking to enhance my skills and stay at the forefront of the industry.always seeking to enhance my skills and stay at the forefront of the industry.
+Hi 👋, <br>I'm Manal Mounir<br>A Full-stack Data scientist<br>🎓 I am a passionate PhD Researcher specializing in Digital Twins, AI, Cloud, and Edge Computing<br>💼 My extensive academic background, combined with a strong experience in web, mobile, and desktop development,  allows me to bring a unique perspective to each project<br>🔍 I am constantly staying updated with the latest technological advancements and best practices in my field, always seeking to enhance my skills and stay at the forefront of the industry.always seeking to enhance my skills and stay at the forefront of the industry.
 
 
 ## 🌐 Socials:
